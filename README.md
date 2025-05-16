@@ -1,4 +1,4 @@
-🎯 RayTracer – B-OOP-400
+### 🎯 RayTracer – B-OOP-400
 
   A modular raytracer written in C++ for the Epitech B-OOP-400 curriculum.
   Renders 3D scenes with primitives, lights, shadows and config-based setup.
